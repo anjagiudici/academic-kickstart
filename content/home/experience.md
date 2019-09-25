@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Visiting fellow"
+  company = "European University Institute, Department of Political and Social Sciences"
+  company_url = "https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences"
+  location = "Florence"
+  date_start = "2019-02-01"
+  date_end = "2019-08-01"
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Short visiting fellow"
+  company = "Sciences Po, Centre d'études europeéennes"
+  company_url = "https://www.sciencespo.fr/centre-etudes-europeennes/fr"
+  location = "Paris"
+  date_start = "2019-05-01"
+  date_end = "2016-06-30"
+  description = """"""
+
+[[experience]]
+  title = "Postdoctoral research fellow"
+  company = "University of Zurich, Institute of Education"
+  company_url = "https://www.ife.uzh.ch/en/research/hbs.html"
+  location = "Zurich"
+  date_start = "2018-03-01"
+  date_end = "2019-01-30"
+  description = """"""
+
+[[experience]]
+  title = "Visiting research fellow"
+  company = "University of Pennsylvania, Graduate School of Education"
+  company_url = "https://www.gse.upenn.edu"
+  location = "Philadelphia"
+  date_start = "2018-03-01"
+  date_end = "2019-01-30"
+  description = """"""
+
+[design.background]
+image = "header1.png"  # Name of image in `static/img/`.
+image_darken = 0.01  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
 +++
