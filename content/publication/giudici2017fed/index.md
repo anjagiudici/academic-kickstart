@@ -2,11 +2,11 @@
 title: "Una centralizzazione passata dalla porta di servizio? Il federalismo scolastico: origini, evoluzione e sfide contemporanee"
 authors:
 - admin
-date: "2018-09-01T00:00:00Z"
+date: "2017-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,15 +15,18 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Federalismo svizzero: attori, strutture, processi*, eds. Sean Mueller & Anja Giudici (193-222). Wiesbaden: Springer VS"
+publication: "In *Federalismo svizzero: attori, strutture, processi*, eds. Sean Mueller & Anja Giudici (193-222). Locarno: Dadò"
 publication_short: ""
 
-abstract: ""
+abstract: "In Italian.
+
+
+The chapter discusses the evolution, and gradual centralisation, of Swiss federalism in the field of education policy."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: false
+featured: true
 
 links:
 - name: "Publisher"

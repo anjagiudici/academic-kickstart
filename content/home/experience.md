@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Visiting fellow"
+  company = "University of Oxford, Department of Politics and International Relations"
+  company_url = "https://www.politics.ox.ac.uk"
+  location = "Oxford"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Visiting fellow"
   company = "European University Institute, Department of Political and Social Sciences"
   company_url = "https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences"
   location = "Florence"

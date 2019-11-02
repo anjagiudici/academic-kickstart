@@ -7,7 +7,7 @@ date: "2018-011-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-09-01T00:00:00Z"
+publishDate: "2018-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,10 +32,10 @@ Lange definierten Curricula die Lernzeiten von Mädchen und Knaben unter- schie
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: false
+featured: true
 
 links:
-- name: "Journal"
+- name: "Article"
   url: "https://bop.unibe.ch/sjer/issue/view/887"
 url_pdf: 
 url_code: ''
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [sinergia]
+projects: [diversity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

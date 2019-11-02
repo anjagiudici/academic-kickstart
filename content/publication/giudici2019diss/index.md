@@ -6,7 +6,7 @@ date: "2019-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PhD Thesis, Defended at the University of Zurich"
+publication: "PhD Thesis, Defended at the University of Zurich, Summa cum laude."
 publication_short: "PhD Thesis"
 
 abstract: "No society is monolingual. Therefore, decisions about the languages that are included in or excluded from school curricula have a major and differential impact on individuals and carry major normative societal implications. The school language policies of the nineteenth and twentieth centuries are typically reduced to nationalism. Language curricula are said to be state's means of creating the monolingual nationals required to prove its legitimacy. However, other explanations have also been advanced. They may rely on actors' interests, on actors' ideas, or on the influence of social, economic, or power structures on the political process.
@@ -30,7 +30,7 @@ Theoretically, the thesis refines our understanding of school language policiesâ
 summary: 
 tags:
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

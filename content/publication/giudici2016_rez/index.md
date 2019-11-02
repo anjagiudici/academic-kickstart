@@ -6,7 +6,7 @@ date: "2016-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2016-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,11 @@ publication_types: ["0"]
 publication: "In: H-Soz-Kult, 11.01.2016, www.hsozkult.de/publicationreview/id/reb-22428."
 publication_short: ""
 
-abstract: ""
+abstract: "In German.
+
+
+Review of two books discussing the relationship between state, public space, and schooling.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -49,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [diversity]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

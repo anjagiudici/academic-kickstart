@@ -1,6 +1,6 @@
 ---
 title: Explaining Language Education Policy
-summary: Explorations into the determinants of language education policy.
+summary: " "
 #tags:
 #- Deep Learning
 date: "2019-08-21T00:00:00Z"
@@ -29,7 +29,7 @@ url_project: "http://p3.snf.ch/Project-174544"
 #slides: example
 ---
 
-Language education policy matters. In fact, there is only one way to master a language: learn it. Despite often being couched in biological terms – mother tongue, language families, descent words –, language actually has little to do with nature. Languages are manmade, and while biology may provide individuals with the ability to acquire and use language, when it comes to particular languages, “[t]here are no genes; there is only learning”, as sociolinguist Einar Haugen (1973, p. 48) puts it. As the prime institution for the professional conveyance of knowledge from one generation to the next, formal schooling plays a crucial role in enabling and regulating language learning.
+Language education policy matters. In fact, there is only one way to master a language: learn it. Despite often being couched in biological terms – mother tongue, language families, descent words –, language actually has little to do with nature. Languages are manmade, and while biology may provide individuals with the ability to acquire and use language, when it comes to particular languages, “[t]here are no genes; there is only learning”, as sociolinguist Einar Haugen (1973) puts it. As the prime institution for the professional conveyance of knowledge from one generation to the next, formal schooling plays a crucial role in enabling and regulating language learning.
 
 
 

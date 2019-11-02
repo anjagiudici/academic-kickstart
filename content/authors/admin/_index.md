@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Schoolpol Project
+role: Visiting fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,13 @@ organizations:
   url: "https://www.politics.ox.ac.uk/research-projects/schoolpol.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests revolve around the politics and history of education, language education policy, and the far right... 
+bio:
 
 interests:
 - Politics of education
 - History of education
 - Language education policy
+- Far-right ideology & politics
 
 education:
   courses:
@@ -70,6 +71,6 @@ user_groups:
 #- Visitors
 ---
 
-I am a woman who has a strong penchant for highland cows. And octopuses. And sloths.
+I am a Visiting Fellow in education and political science at the University of Oxford.
 
-The ultimate goal in my life is to work in a sloth reintegration center in Costa Rica.
+My research revolves around the politics and history of education. I am particularly interested in exploring how ideological, societal, linguistic, and cultural diversity shapes how education is conceived, governed, and practiced. My current work focusses on the educational ideas and politics of the far right. Education constitutes a key means to shape a society's future. By investigating the educational views and politics of representatives of interwar fascisms and the postwar far right, I aim to ascertain how education is supposed to be governed and structured, when the ideal is not a liberal-democracy but an authoritarian and nativist state. 

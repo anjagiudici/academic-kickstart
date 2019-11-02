@@ -73,7 +73,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -99,7 +99,7 @@ address = {street = "Department of Politics and International Relations, Manor R
 coordinates = {latitude = "51.757562", longitude = "-1.246845"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Room 147"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -153,7 +153,7 @@ gravatar = false
 menu_align_right = false
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false

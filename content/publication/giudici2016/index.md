@@ -6,7 +6,7 @@ date: "2016-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-09-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Bildungspolitik als Beruf*, eds. Lucien Criblez & Hans-Martin Binder (28-39). Zurich: Bildungsplanung"
+publication: "in L. Criblez & H.-M. Binder (eds), *Bildungspolitik als Beruf* (28-39), Zürich: Bildungsplanung"
 publication_short: ""
 
-abstract: ""
+abstract: "Chapter in German.
+
+
+The chapter discusses the contrasting logics underlying language education politics in light of recent debates on which languages to teach in Swiss schools."
 
 # Summary. An optional shortened abstract.
 summary: ""

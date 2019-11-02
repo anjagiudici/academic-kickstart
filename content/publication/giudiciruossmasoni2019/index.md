@@ -4,7 +4,7 @@ authors:
 - admin
 - Thomas Ruoss
 - Giorgia Masoni
-date: "2018-09-21T00:00:00Z"
+date: "2019-09-21T00:00:00Z"
 doi: "10.24452/sjer.41.1.8"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,9 +27,9 @@ summary: ""
 
 featured: true
 
-#links:
-#- name: "Dataset"
-#  url: "https://onlinelibrary.wiley.com/doi/10.1111/spsr.12214"
+links:
+- name: "Article"
+  url: "https://bop.unibe.ch/sjer/article/view/5850/8110"
 url_pdf: 
 url_code: ''
 url_dataset: ''

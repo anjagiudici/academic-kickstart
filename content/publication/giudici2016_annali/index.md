@@ -15,15 +15,18 @@ publishDate: "2019-09-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Annali di storia dell'educazione e delle istituzioni scolastiche, 23, 106-123"
+publication: "*Annali di storia dell'educazione e delle istituzioni scolastiche*, 23, 106-123"
 publication_short: ""
 
-abstract: ""
+abstract: "Article in Italian.
+
+In uno Stato multilingue, democrazia e istituzioni libere sono impossibili, dichiarava J.S. Mill nel suo celeberrimo *Of Nationality, as Connected to Representative Government* (1861). Ai suoi occhi, la presenza di più gruppi linguistici avrebbe creato diffidenza e disparità di trattamento fra le diverse componenti statali e reso impossibile la formazione di una sfera pubblica, cioè dello spazio deliberativo necessario a uno Stato per dirsi veramente democratico. Queste considerazioni di Mill si scontrano con l’immagine del caso svizzero, che viene spesso considerato “caso paradigmatico” di riuscita conciliazione tra regime democratico e convivenza di più gruppi linguistici3.
+Come già implicato da Mill, il concetto di Stato-nazione, e quindi la costruzione sociale che ha dominato e strutturato la politica dal XIX secolo in avanti, è strettamente legato alla presenza di uno spazio culturalmente e linguisticamente omogeneo, inteso a garantire il suo successo democratico, economico e militare. L’affermazione di questo concetto in gran parte dell’Europa dal XVIII secolo e la sua radicalizzazione dal 1870 in poi si è quindi ripercossa anche su quello che è stato definito il mezzo più importante di politica culturale e linguistica: la scuola pubblica. Ma se l’affermazione dello Stato-nazione monolingue ha avuto come risultato la nascita di sistemi e programmi scolastici atti a creare la popolazione linguisticamente omogenea che gli si confaceva, allora dobbiamo chiederci se e come si sia invece ripercossa la creazione di uno Stato federale multilingue sulla politica linguistica scolastica. Lo fa questo articolo, partendo proprio dal caso svizzero."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

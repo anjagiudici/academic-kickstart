@@ -19,7 +19,10 @@ publication_types: ["6"]
 publication: "In *Schule und Reform. Veränderungsabsichten, Wandel und Folgeprobleme*, eds. Flavian Imlig, Lukas Lehmann, Karin Manz (117-131). Wiesbaden: Springer VS"
 publication_short: ""
 
-abstract: ""
+abstract: "In German.
+
+
+In this chapter we explore the educational engagement of Swiss interwar fascist organisations and discuss potential avenues for future research on the topic. "
 
 # Summary. An optional shortened abstract.
 summary: ""

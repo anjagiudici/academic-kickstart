@@ -2,12 +2,12 @@
 title: "Die Zusammensetzung des schweizerischen Bundesrates nach Partei, Sprache, Religion und Region 1848-2015"
 authors:
 - admin
-- Nenad Stojanovic
-date: "2018-09-01T00:00:00Z"
+- Nenad Stojanović
+date: "2016-09-01T00:00:00Z"
 doi: "10.1111/spsr.12214"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2016-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,12 +19,15 @@ publication_types: ["2"]
 publication: "*Swiss Political Science Review, 22*(2), 288-307"
 publication_short: ""
 
-abstract: "Verschiedene Kriterien sind für die Wahl in den Bundesrat bedeutend. Seit 1999 muss die Bundesversammlung darauf Rücksicht nehmen, dass verschiedene Sprachen und Regionen der Schweiz im Bundesrat angemessen vertreten sind (Art. 175 Ab. 4 BV). Zusätzlich achtet das Parlament darauf, dass ein gewisser Parteiproporz und die Präsenz beider Geschlechter in der Regierung gesichert werden. Früher war auch die konfessionelle Zugehörigkeit der Bundesratsmitglieder ein Thema und bis 1999 durfte maximal eine Person pro Kanton amtieren. Mittels einer Vollerhebung relevanter Merkmale aller Mitglieder des Bundesrates seit 1848 und einer, verglichen mit bisherigen Studien, differenzierteren Auswertungsmethode legen wir einen präzisen Überblick über die Vertretung der Parteien, Regionen, Sprachen und Religionen in der Regierung vor. Ein Anwendungsbeispiel – der potentielle Einfluss des Übergangs vom Majorz- aufs Proporz-Wahlsystem für die Wahl des Nationalrates im Jahr 1919 – illustriert, wie diese Daten für wissenschaftliche Zwecke genutzt werden können."
+abstract: "The article is in German. It documents and analyses our database of the linguistic, religious, partisan, gender, age, and educational composition of the Swiss government (Federal Council) since its institutionalisation in 1848.
+
+
+Verschiedene Kriterien sind für die Wahl in den Bundesrat bedeutend. Seit 1999 muss die Bundesversammlung darauf Rücksicht nehmen, dass verschiedene Sprachen und Regionen der Schweiz im Bundesrat angemessen vertreten sind (Art. 175 Ab. 4 BV). Zusätzlich achtet das Parlament darauf, dass ein gewisser Parteiproporz und die Präsenz beider Geschlechter in der Regierung gesichert werden. Früher war auch die konfessionelle Zugehörigkeit der Bundesratsmitglieder ein Thema und bis 1999 durfte maximal eine Person pro Kanton amtieren. Mittels einer Vollerhebung relevanter Merkmale aller Mitglieder des Bundesrates seit 1848 und einer, verglichen mit bisherigen Studien, differenzierteren Auswertungsmethode legen wir einen präzisen Überblick über die Vertretung der Parteien, Regionen, Sprachen und Religionen in der Regierung vor. Ein Anwendungsbeispiel – der potentielle Einfluss des Übergangs vom Majorz- aufs Proporz-Wahlsystem für die Wahl des Nationalrates im Jahr 1919 – illustriert, wie diese Daten für wissenschaftliche Zwecke genutzt werden können."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: false
+featured: true
 
 links:
 - name: "Dataset"
@@ -50,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [fascism]
+projects: [diversity]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

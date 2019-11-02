@@ -1,6 +1,6 @@
 ---
-title: (Educational) institutions dealing with diversity
-summary: 
+title: (Educational) institutions dealing with societal diversity
+summary: " "
 #tags:
 #- Deep Learning
 date: "2017-09-21T00:00:00Z"
@@ -29,7 +29,10 @@ links:
 #slides: example
 ---
 
-In this series of studies and publications, which are the result of my collaborations with several political scientists and linguists, I have explored how institutions of government and education deal with societal diversity, e.g. in the realm of language or gender.
+This series of studies and publications are the result of my collaborations with several political scientists, educationalists, and linguists. They explored how institutions of government and education deal with societal diversity, e.g. regarding language, culture, or gender.
+
+
+
 
 ---
 
