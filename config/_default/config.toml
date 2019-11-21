@@ -16,7 +16,7 @@ baseurl = "https://anjagiudici.github.io/"
 copyright = "&copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-153072620-1"
 
 ############################
 ## Advanced options below ##
