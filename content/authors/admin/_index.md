@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting fellow
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -71,6 +71,6 @@ user_groups:
 #- Visitors
 ---
 
-I am a Visiting Fellow in education and political science at the University of Oxford.
+I am a Postdoctoral Research Fellow at the University of Oxford, where I work on the [ERC funded Schoolpol project](https://schoolpol.web.ox.ac.uk/home).
 
-My research revolves around the politics and history of education. I am particularly interested in exploring how ideological, societal, linguistic, and cultural diversity shapes how education is conceived, governed, and practiced. My current work focusses on the educational ideas and politics of the far right. Education constitutes a key means to shape a society's future. By investigating the educational views and politics of representatives of interwar fascisms and the postwar far right, I aim to ascertain how education is supposed to be governed and structured, when the ideal is not a liberal-democracy but an authoritarian and nativist state. 
+My research revolves around the politics and history of education. I am particularly interested in exploring how ideological, societal, linguistic, and cultural diversity shapes how education is conceived, governed, and practiced. My current work focuses on the educational ideas and politics of the far right. Education constitutes a key means to shape a society's future. By investigating the educational views and politics of interwar fascisms and the postwar far right, I aim to ascertain how education is supposed to be governed and structured, when the ideal is not a liberal-democracy but an authoritarian and nativist state. 
