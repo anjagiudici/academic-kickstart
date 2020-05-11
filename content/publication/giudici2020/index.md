@@ -15,7 +15,7 @@ publishDate: "2020-04-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Education Policy*, online first"
+publication: "*Journal of Education Policy*, first view"
 publication_short: ""
 
 abstract: "Education policy is generally understood as a multi-layered process, consisting of diverse interconnected phases. Studies of these inter-connections typically ask whether and how the generation of official policy from the top-down affects micro-politics, i.e. how teachers experience and execute their work. The assumption that policy is influenced in the reverse direction is widely held, but has seldom been studied empirically. Little is known, therefore, about how this dynamic operates. This study delineates mechanisms that link teachers’ micro-politics to the macro-politics of policy generation. Analytically, it combines concepts from the literature on teacher involvement in macro- and micro-politics in order to develop a framework bridging the two. Empirically, it harnesses the theoretical potential of Swiss language education policy, tracing the process of reforms through which teachers, though formally excluded from policy-making, were able to influence the choice of languages included in official curricula. The analysis identifies three mechanisms through which they exerted influence: voicing experience, subversive enactment, and open resistance. None of these are dependent upon higher levels of teacher unionisation or particular institutions of governance. These findings highlight the importance of engaging with the processual dimension of politics to advance our theories of educational policy."
