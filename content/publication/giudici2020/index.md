@@ -25,17 +25,18 @@ summary: ""
 
 featured: true
 
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+
+
+
 links:
-- name: "Supplemental material"
-  url: "https://www.tandfonline.com/doi/suppl/10.1080/02680939.2020.1730976?scroll=top"
-url_pdf: 
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_dataset: 'AppendixGiudici2020.pdf'
+
+
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -25,7 +25,7 @@ abstract: "Progressive education is generally thought to bear little commonality
 # Summary. An optional shortened abstract.
 summary: ""
 
-featured: true
+featured: false
 
 links:
 - name: "Article"

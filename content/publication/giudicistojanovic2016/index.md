@@ -30,11 +30,9 @@ summary: ""
 featured: true
 
 links:
-- name: "Dataset"
-  url: "https://onlinelibrary.wiley.com/doi/10.1111/spsr.12214"
 url_pdf: 
 url_code: ''
-url_dataset: ''
+url_dataset: 'GiudiciStojanovicAnhang.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''
